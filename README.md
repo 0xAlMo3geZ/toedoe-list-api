@@ -1,4 +1,4 @@
-# laravel-api-vue-client
+# laravel-api
 
 A laravel learning project, working as the API for my [laravel api client](https://github.com/muzakonthecode/laravel-api-vue-client) learning project.
 
