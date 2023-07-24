@@ -1,6 +1,6 @@
 # laravel-api
 
-A laravel learning project, working as the API for my [laravel api client](https://github.com/muzakonthecode/laravel-api-vue-client) learning project.
+A laravel learning project, working as the API for my [toedoe-list-vue](https://github.com/muzakonthecode/toedoe-list-vue) learning project.
 
 ## About Laravel
 
