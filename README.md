@@ -1,4 +1,4 @@
-# laravel-api
+# toedoe-list-api
 
 A laravel learning project, working as the API for my [toedoe-list-vue](https://github.com/muzakonthecode/toedoe-list-vue) learning project.
 
