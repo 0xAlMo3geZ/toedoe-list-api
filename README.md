@@ -4,7 +4,7 @@ A laravel learning project, working as the API for my [toedoe-list-vue](https://
 
 ## Installation
 
-1. Download the code by clicking **Code**, **Download ZIP**. Or if you have Git install in your machine, you can run this in your teminal.
+1. Download the code by clicking **Code**, **Download ZIP**. Or if you have Git install in your machine, you can run this in your terminal.
 
 ```
 git clone https://github.com/muzakonthecode/toedoe-list-api.git
