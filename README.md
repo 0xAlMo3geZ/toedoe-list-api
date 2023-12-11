@@ -1,13 +1,13 @@
 # toedoe-list-api
 
-A laravel learning project, working as the API for my [toedoe-list-vue](https://github.com/muzakonthecode/toedoe-list-vue) learning project.
+A laravel learning project, working as the API for my [toedoe-list-vue](https://github.com/0xAlMo3geZ/toedoe-list-vue) learning project.
 
 ## Installation
 
 1. Download the code by clicking **Code**, **Download ZIP**. Or if you have Git install in your machine, you can run this in your terminal.
 
 ```
-git clone https://github.com/muzakonthecode/toedoe-list-api.git
+git clone https://github.com/0xAlMo3geZ/toedoe-list-api.git
 ```
 
 2. Change directory to your local copy of `toedoe-list-api` in your terminal. Then install composer dependencies.
